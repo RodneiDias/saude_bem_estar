@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "saude_bem_estar",
+    "slug": "saude_bem_estar",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "saude_bem_estar"
+}
